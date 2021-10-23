@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [project 1](https://roni-n.github.io/Insurance-claims-prediction/).
 
 
-[project 2](https://roni-n.github.io/Startup-Success-Prediction-/).
+[project 2](https://roni-n.github.io/Startup-Success-Prediction/).
 
 There should be whitespace between paragraphs.
 
