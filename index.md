@@ -3,7 +3,7 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+היי שלום 
 
 [project 1](https://roni-n.github.io/Insurance-claims-prediction/).
 
