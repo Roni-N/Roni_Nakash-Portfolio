@@ -3,7 +3,7 @@ logo: /assets/img/ro-m.png
 
 description:
   <p align="center">
-  <a href="pdf/resumedf">Resume</a> |
+  <a href="pdf/resumedf">Resume</a> <br>
   <a href="https://www.linkedin.com/in/chrisknhtran/">LinkedIn</a> |
   <a href="https://github.com/chriskhanran">GitHub</a>
   </p>
@@ -17,6 +17,10 @@ description:
 show_downloads: false
 google_analytics: G-NK5QYM5W74
 theme: jekyll-theme-minimal
+links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
 # Site Footer
 footer:
   links:
