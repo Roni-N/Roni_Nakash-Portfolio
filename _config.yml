@@ -1,5 +1,5 @@
 title: <p align="center"> Roni Nakash </p>
-logo: /assets/img/ro-m.png
+logo: /assets/img/ro-m.png <br>
 description:
   <p align="center">
   <a href="pdf/resumedf">Resume</a> |
@@ -12,7 +12,7 @@ description:
   <br><br>
   I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
   <br><br>
-  </p>
-show_downloads: false
+  </p><br>
+show_downloads: true
 google_analytics: G-NK5QYM5W74
 theme: jekyll-theme-minimal
