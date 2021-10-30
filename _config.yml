@@ -22,4 +22,4 @@ show_downloads: false
 google_analytics: G-NK5QYM5W74
 theme: jekyll-theme-minimal
 
-<link rel="shortcut icon" type="image/x-icon" href="/assets/img/e.png">
+logo: <link rel="shortcut icon" type="image/x-icon" href="/assets/img/e.png">
