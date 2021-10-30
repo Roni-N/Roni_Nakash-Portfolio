@@ -14,6 +14,8 @@ description:
   I am currently a Machine 
   <br><br>
   </p><br>
+  
+  <link rel="shortcut icon" type="image/x-icon" href="whatever_folder_name/favicon.ico">
 show_downloads: false
 google_analytics: G-NK5QYM5W74
 theme: jekyll-theme-minimal
