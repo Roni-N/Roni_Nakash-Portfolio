@@ -1,6 +1,8 @@
 title: <p align="center"> Roni Nakash </p>
 logo: /assets/img/ro-m.png 
-
+name: test 1
+url: test 2
+masthead_title: test 3
 description:
   <p align="center">
   <a href="pdf/resumedf">Resume</a> <br>
@@ -15,7 +17,10 @@ description:
   <br><br>
   </p><br>
 show_downloads: true
-logo: <link rel="shortcut icon" type="image/x-icon" href="/assets/img/e.png">
+<link rel="shortcut icon" type="image/x-icon" href="/assets/img/e.png">
 google_analytics: G-NK5QYM5W74
 theme: jekyll-theme-minimal
 
+links:
+    - label: "Email"
+      icon: href="/assets/img/e.png
