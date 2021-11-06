@@ -24,8 +24,7 @@ Cheers :)
 
 
 ------------------------------------------------------------
-# project 1
-------------------------------------------------------------
+# Insurance claim prediction project
 
 Insurance claim prediction project. </b>
 This project is a supervised learning classification task based on structured data. </b>
