@@ -5,6 +5,24 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 היי שלום 
 
+# Hello and welcome to my portfolio!
+## My name is Roni Nakash, and I'm a Data Scientist.
+
+I have a Master's (MS.c) in Industrial Engineering (specialization in Data Science) 
+and a bachelor's (BS.c) in Industrial Engineering (specialization in information systems) 
+from Ben Gurion University.
+
+
+In this portfolio, I will share with you some of my knowledge in the fields of
+Data Science, Machine Learning, Artificial Intelligence Statistics, Python and more.
+
+I hope you will find this information helpful, and I would love to hear your opinion :)
+Please feel free to contact me in any matter!
+Cheers :)
+
+
+
+
 [project 1](https://roni-n.github.io/Insurance-claims-prediction/).
 
 
