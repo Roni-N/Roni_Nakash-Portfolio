@@ -7,6 +7,7 @@ layout: default
 ------------------------------------------------------------
 
 ## My name is Roni Nakash, and I'm a Data Scientist.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 I have a Master's (MS.c) in Industrial Engineering (specialization in Data Science) 
 and a bachelor's (BS.c) in Industrial Engineering (specialization in information systems) 
