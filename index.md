@@ -2,10 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-היי שלום 
 
 # Hello and welcome to my portfolio!
+------------------------------------------------------------
+
 ## My name is Roni Nakash, and I'm a Data Scientist.
 
 I have a Master's (MS.c) in Industrial Engineering (specialization in Data Science) 
