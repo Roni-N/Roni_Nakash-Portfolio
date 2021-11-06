@@ -53,6 +53,18 @@ data integration, exploratory data analysis (EDA), feature engineering, feature 
 
 
 
+------------------------------------------------------------
+# Natural Language Processing (NLP) & Text classification
+
+
+In this project, we will use the CRISP-DM methodology and popular data science and machine learning techniques, such as:  
+data integration, exploratory data analysis (EDA), feature engineering, feature selection, imbalance date methods, machine learning models, evaluation and  hyperparameters tuning using: python libraries (Numpy, Pandas, Matplotlib, Scikit-learn), statistics, and more.
+
+
+[![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Insurance-claim-prediction/)
+
+
+
 
 
 
