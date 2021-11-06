@@ -5,7 +5,7 @@ layout: default
 
 # Hello and welcome to my portfolio!
 ------------------------------------------------------------
-
+------------------------------------------------------------
 ## My name is Roni Nakash, and I'm a Data Scientist.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
