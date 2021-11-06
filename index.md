@@ -22,6 +22,13 @@ Please feel free to contact me in any matter!
 Cheers :)
 
 
+?style=flat&logo=appveyor
+
+?style=flat&logo=appveyor
+
+https://img.shields.io/badge/Spotify-My_Musics-1ED760?logo=Spotify
+
+[![]("assets/img/gg2.png")](https://roni-n.github.io/Insurance-claims-prediction/)
 
 
 [project 1](https://roni-n.github.io/Insurance-claims-prediction/).
