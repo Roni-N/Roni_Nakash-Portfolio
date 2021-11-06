@@ -28,7 +28,15 @@ Cheers :)
 
 https://img.shields.io/badge/Spotify-My_Musics-1ED760?logo=Spotify
 
+https://img.shields.io/badge/GitHub-Full%20project%20Link-blue
+
+https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Spotify
+
+
 [![]("assets/img/gg2.png")](https://roni-n.github.io/Insurance-claims-prediction/)
+
+https://img.shields.io/badge/label-message-color?logo=logo_name
+
 
 
 [project 1](https://roni-n.github.io/Insurance-claims-prediction/).
