@@ -33,7 +33,7 @@ https://img.shields.io/badge/GitHub-Full%20project%20Link-blue
 https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Spotify
 
 
-[![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Insurance-claims-prediction/)
+[![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Insurance-claim-prediction/)
 
 
 [![]("assets/img/gg2.png")](https://roni-n.github.io/Insurance-claims-prediction/)
