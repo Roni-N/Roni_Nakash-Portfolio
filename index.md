@@ -5,7 +5,7 @@ layout: default
 
 # Hello and welcome to my portfolio!
 ------------------------------------------------------------
-------------------------------------------------------------
+
 ## My name is Roni Nakash, and I'm a Data Scientist.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -22,23 +22,15 @@ Please feel free to contact me in any matter!
 Cheers :)
 
 
-?style=flat&logo=appveyor
 
-?style=flat&logo=appveyor
 
-https://img.shields.io/badge/Spotify-My_Musics-1ED760?logo=Spotify
-
-https://img.shields.io/badge/GitHub-Full%20project%20Link-blue
-
-https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Spotify
-
+------------------------------------------------------------
+# project 1
 
 [![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Insurance-claim-prediction/)
 
 
 [![]("assets/img/gg2.png")](https://roni-n.github.io/Insurance-claims-prediction/)
-
-https://img.shields.io/badge/label-message-color?logo=logo_name
 
 
 
