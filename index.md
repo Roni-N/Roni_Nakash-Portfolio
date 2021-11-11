@@ -32,9 +32,9 @@ layout: default
 
 
 **The project follows the CRISP-DM methodology, which includes the following steps:** <br>
-<img width="460" src="https://github.com/Roni-N/Roni_Nakash-Portfolio/blob/main/assets/img/g1.png">
+<img width="20" src="https://github.com/Roni-N/Roni_Nakash-Portfolio/blob/main/assets/img/g1.png">
 
-![](/assets/img/wf1.png =250x)
+![](/assets/img/wf1.png =100x20)
                                                       
 As part of my work, I will apply data science and machine learning techniques, such as:
 1. Integrated Data sets. 
