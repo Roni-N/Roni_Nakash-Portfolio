@@ -16,23 +16,24 @@ layout: default
 >In this portfolio, I will share with you some of my expertise in: <br>
 >**Data Science & Machine Learning techniques, Natural Language Processing (NLP) & Text classification, Statistics and more.** <br>
 
->**I hope you will find this information useful, and I would appreciate hearing your thoughts! <br>
-
->**Please don't hesitate to contact me if you have any questions.** <br>
+>I hope you will find this information useful, and I would appreciate hearing your thoughts! <br>
+>Please don't hesitate to contact me if you have any questions. <br>
 >**Thanks and enjoy reading. :)**
 
 
 ------------------------------------------------------------
-# Classification Project: Insurance claim prediction 
+## Classification Project: Insurance claim prediction 
 ------------------------------------------------------------
 **Project purpose:** The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
+
 **Project objective:** The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning methods (both theoretical and practical).
 
-A claim prediction model could be a valuable and powerful tool.  <br>
+**Motivation:** A claim prediction model could be a valuable and powerful tool.  <br>
 With this tool, insurance companies can minimize risks, provide customized pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
 
 
-The project follows the CRISP-DM methodology, which includes the following steps:
+**The project follows the CRISP-DM methodology, which includes the following steps:**
+**pic link**
 
 As part of my work, I will apply data science and machine learning techniques, such as:
 1. Integrated Data sets. 
@@ -53,7 +54,7 @@ Using **Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.**
 
 ------------------------------------------------------------
 
-## Section 1: Business Understanding
+### Section 1: Business Understanding
 In this section, we will learn about the business world (the insurance industry) and define the business problem and the objectives of our project.
 **Topics covered:**
 - Introduction to the insurance business model
@@ -63,9 +64,9 @@ Pic 1 and link
 
 
 ------------------------------------------------------------
-## Section 2: Data Understanding
+### Section 2: Data Understanding
 
-### 2.1 Data integration 
+#### 2.1 Data integration 
 In this section, we will first explore the available data & features from different datasets. 
 Next, we will integrate the data into a unified dataset by implementing the business workflow, and finally, we will produce the target variable.
 **Topics covered:**
@@ -76,13 +77,13 @@ Pic 1 and link
 
 ************************************************************
 
-### 2.2 Exploratory Data Analysis (EDA)
+#### 2.2 Exploratory Data Analysis (EDA)
 In the next step, we will perform Exploratory Data Analysis (EDA) to perform preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
 **Topics covered:**
 
 ------------------------------------------------------------
-## Section 3: Data preparation 
-### 3.1 Feature Engineering:
+### Section 3: Data preparation 
+#### 3.1 Feature Engineering:
 In this section, we will use multiple methods and techniques to convert (process & transform) raw data into features that better represent the underlying problem in a predictive model.
 **Topics covered:**
 - Missing Data Imputation
@@ -95,7 +96,7 @@ In this section, we will use multiple methods and techniques to convert (process
 Pic 1 and link
 
 ************************************************************
-### 3.2 Feature Selection: 
+#### 3.2 Feature Selection: 
 In the next step, we will use feature selection methods to reduce the number of input variables (i.e. remove non-informative or redundant features) to those that will provide the greatest level of predictive power for the target variable.
 **Topics covered:**
 - Filter methods (variance and statistical test, correlations, univariate selection)
@@ -104,7 +105,7 @@ In the next step, we will use feature selection methods to reduce the number of 
 Pic 1 and link
 
 ************************************************************
-### 3.3 Imbalance Data: 
+#### 3.3 Imbalance Data: 
 This section will conclude with Imbalanced data handling. Our data set does not have an equally distributed distribution of observations by class. Most standard classifier learning algorithms performed poorly in this issue cloud. It can be resolved by balancing the two classes.
 **Topics covered:**
 - Undersampling (Fixed and Cleaning methods)
@@ -115,7 +116,7 @@ Pic 1 and link
 ************************************************************
 
 ------------------------------------------------------------
-## Section 4: Machine Learning Algorithms 
+### Section 4: Machine Learning Algorithms 
 In this section, we will train different machine learning algorithms to create models that could predict future claim insurance premiums.
 **Classification models such as:**
 - Logistic regression 
@@ -125,7 +126,7 @@ In this section, we will train different machine learning algorithms to create m
 - KNN classifier 
 
 ------------------------------------------------------------
-## Section 5: Evaluation and Hyperparameters Tuning 
+### Section 5: Evaluation and Hyperparameters Tuning 
 In this section, we will evaluate the model's performance based on relevant performance metrics.
 We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal hyperparameters) to improve model performance.
 **Topics covered:**
@@ -138,7 +139,7 @@ We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal h
 
 
 ------------------------------------------------------------
-# Natural Language Processing (NLP) & Text classification
+## Natural Language Processing (NLP) & Text classification
 
 
 In this project, we will use the CRISP-DM methodology and popular data science and machine learning techniques, such as:  
