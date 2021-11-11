@@ -24,16 +24,17 @@ layout: default
 ------------------------------------------------------------
 ## Classification Project: Insurance claim prediction 
 ------------------------------------------------------------
->**Project purpose:** The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
->
->**Project objective:** The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning >methods (both theoretical and practical).<br>
->
->**Motivation:** A claim prediction model could be a valuable and powerful tool. With this tool, insurance companies can minimize risks, provide customized >pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
+> **Project purpose:** The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
+
+> **Project objective:** The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning > methods (both theoretical and practical).<br>
+
+> **Motivation:** A claim prediction model could be a valuable and powerful tool. With this tool, insurance companies can minimize risks, provide customized > pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
 
 
 **The project follows the CRISP-DM methodology, which includes the following steps:** <br>
 
 <img width="460" src="/assets/img/wf1.png?raw=true">
+<img src="/assets/img/wf1.png?raw=true">
 
                                                       
 As part of my work, I will apply data science and machine learning techniques, such as:
