@@ -6,13 +6,7 @@ layout: default
 # Hello and welcome to my portfolio!
 ------------------------------------------------------------
 
-* * *
 
-***
-
-*****
-
-- - -
 
 ## My name is Roni Nakash, and I'm a Data Scientist.
 
@@ -30,7 +24,7 @@ Cheers :)
 
 
 
-
+------------------------------------------------------------
 ------------------------------------------------------------
 # Classification Project: Insurance claim prediction 
 
@@ -50,105 +44,96 @@ As part of my work, I will apply data science and machine learning techniques, s
 5. Imbalance Date methods, 
 6. Machine Learning models. 
 7. Evaluation and hyperparameter tuning 
-I will be using Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.
 
-
-
+Using Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.
 
 [![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Insurance-claim-prediction/)
-
-
 [![]("assets/img/gg2.png")](https://roni-n.github.io/Insurance-claims-prediction/)
-
-
-
 [project 1](https://roni-n.github.io/Insurance-claims-prediction/).
-
-
 [project 2](https://roni-n.github.io/Startup-Success-Prediction/).
 
-
-# Insurance claims prediction project.
-This project is a supervised learning classification task based on structured data.
-In this project we will develop an Insurance claim prediction model using different data sources.
-
-An insurance claim prediction model could be a valuable and powerful tool. 
-By using this tool, insurance companies can minimize risks, provide adaptive pricing premiums, streamline work processes, reduce costs and maximize profits.
-
-In this project, we will use the CRISP-DM methodology. 
-CRISP-DM is a popular workflow, including six steps (fig 1). In each step, we will perform different techniques that will help us to build and develop an efficient model.
 
 ------------------------------------------------------------
 
 ## Section 1: Business Understanding
-In this section, we will learn about the business world (the insurance industry), and we will define the business problem and our project objectives.
+In this section, we will learn about the business world (the insurance industry) and define the business problem and the objectives of our project.
+**Topics covered:**
+- Introduction to the insurance business model
+- Terms such as The Law of Large Numbers, Expected Value, and Expected Return
+- Definition of the business problem and the project objectives
 Pic 1 and link
 
 
 ------------------------------------------------------------
 ## Section 2: Data Understanding
-************************************************************
 
 ### 2.1 Data integration 
-In this section, firstly, we will explore the available data (features) from the different sources. 
-We will integrate the data into a unified dataset, and we will produce the target variable.
+In this section, we will first explore the available data & features from different datasets. 
+Next, we will integrate the data into a unified dataset by implementing the business workflow, and finally, we will produce the target variable.
+**Topics covered:**
+- Integrate datasets through business workflow
+- Comparing Pandas library to SQL basic functions 
+- Produce ground truth (label of target variable) 
 Pic 1 and link
+
 ************************************************************
 
 ### 2.2 Exploratory Data Analysis (EDA)
-In the next step, we will perform Exploratory Data Analysis (EDA) to perform initial investigations, discover patterns, spot anomalies, test hypotheses, and check assumptions with the help of summary statistics and graphical representations.
-Pic 1 and link
+In the next step, we will perform Exploratory Data Analysis (EDA) to perform preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
+**Topics covered:**
 
 ------------------------------------------------------------
 ## Section 3: Data preparation 
 ### 3.1 Feature Engineering:
-In this section, we will use different methods and techniques to transform and extract raw data into features that better represent the underlying problem to the predictive model.
-The main steps include:
-Missing Data Imputation
-Categorical Features Encoding
-Transformations
-Discretisations
-Outliers Handling
-Features Scaling
-Engineering mixed Features
+In this section, we will use multiple methods and techniques to convert (process & transform) raw data into features that better represent the underlying problem in a predictive model.
+**Topics covered:**
+- Missing Data Imputation
+- Categorical Features Encoding
+- Transformations
+- Discretisations
+- Outliers Handling
+- Features Scaling
+- Engineering New Features
 Pic 1 and link
+
 ************************************************************
 ### 3.2 Feature Selection: 
-In the next step, we will perform Feature selection methods to reduce (removing non-informative or redundant) the number of input variables to those that we believe to be most useful to a model in order to predict the target variable. 
-We have three main approaches to handle this step:
-Filter methods (variance and statistical test, correlations, univariate selection)
-Wrapper methods (forward / backward selection, exhaustive search)
-Embedded methods (lasso, tree importance)
+In the next step, we will use feature selection methods to reduce the number of input variables (i.e. remove non-informative or redundant features) to those that will provide the greatest level of predictive power for the target variable.
+**Topics covered:**
+- Filter methods (variance and statistical test, correlations, univariate selection)
+- Wrapper methods (forward / backward selection, exhaustive search)
+- Embedded methods (lasso, tree importance)
 Pic 1 and link
+
 ************************************************************
 ### 3.3 Imbalance Data: 
-The final step in this section will be Imbalanced data handling. In our data set, the number of observations per class is not equally distributed. This issue cloud encountered a significant drawback of the performance attainable by most standard classifier learning algorithms.
-We have three main approaches to handle this step:
-Undersampling (Fixed and Cleaning methods)
-Oversampling ( sample extraction and sample generation methods)
-Ensemble Method (data level, cost-sensitive, ensemble algorithms)
+This section will conclude with Imbalanced data handling. Our data set does not have an equally distributed distribution of observations by class. Most standard classifier learning algorithms performed poorly in this issue cloud. It can be resolved by balancing the two classes.
+**Topics covered:**
+- Undersampling (Fixed and Cleaning methods)
+- Oversampling ( sample extraction and sample generation methods)
+- Ensemble Method (data level, cost-sensitive, ensemble algorithms)
 Pic 1 and link
+
 ************************************************************
 
 ------------------------------------------------------------
 ## Section 4: Machine Learning Algorithms 
-In this section, we will train different machine learning classification algorithms.
-We will train models like:
-Logistic regression 
-SVM
-Naive Bayes classifier  
-Random Forest
-KNN classifier 
-And more
+In this section, we will train different machine learning algorithms to create models that could predict future claim insurance premiums.
+**Classification models such as:**
+- Logistic regression 
+- SVM
+- Naive Bayes classifier  
+- Random Forest
+- KNN classifier 
 
 ------------------------------------------------------------
 ## Section 5: Evaluation and Hyperparameters Tuning 
-In this section, we will evaluate the model's performance by performance metrics.
-And we will perform Hyperparameters Tuning methods (i.e. choosing a set of optimal hyperparameters for a learning algorithm) to improve model performance.
-In this step, we will use popular methods as:
-Cross-validation
-Grid search
-And more
+In this section, we will evaluate the model's performance based on relevant performance metrics.
+We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal hyperparameters) to improve model performance.
+**Topics covered:**
+- Cross-validation
+- Search Algorithms (Grid search, Random search)
+- Bayesian Optimization
 
 ------------------------------------------------------------
 
