@@ -34,12 +34,23 @@ Cheers :)
 ------------------------------------------------------------
 # Classification Project: Insurance claim prediction 
 
-Insurance claim prediction project.
 This project is a supervised learning classification task based on structured data.
-In this project we will develop an Insurance claim prediction model using different data sources.
+The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning methods (both theoretical and practical).
 
-In this project, we will use the CRISP-DM methodology and popular data science and machine learning techniques, such as:  
-data integration, exploratory data analysis (EDA), feature engineering, feature selection, imbalance date methods, machine learning models, evaluation and  hyperparameters tuning using: python libraries (Numpy, Pandas, Matplotlib, Scikit-learn), statistics, and more.
+A claim prediction model could be a valuable and powerful tool. 
+By utilizing this tool, insurance companies can minimize risks, provide customized pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
+
+The project follows the CRISP-DM methodology, which includes the following steps:
+
+As part of my work, I will apply data science and machine learning techniques, such as:
+1. Integrated Data sets, 
+2. Exploratory Data Analysis (EDA), 
+3. Feature Engineering. 
+4. Feature Selection, 
+5. Imbalance Date methods, 
+6. Machine Learning models. 
+7. Evaluation and hyperparameter tuning 
+I will be using Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.
 
 
 
