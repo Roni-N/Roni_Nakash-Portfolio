@@ -14,22 +14,23 @@ layout: default
 
 
 >In this portfolio, I will share with you some of my expertise in: <br>
->**Data Science & Machine Learning techniques, Natural Language Processing (NLP) & Text classification, Statistics** and more. <br>
+>**Data Science & Machine Learning techniques, Natural Language Processing (NLP) & Text classification, Statistics and more.** <br>
 
->I hope you will find this information useful, and I would appreciate hearing your thoughts! <br>
+>**I hope you will find this information useful, and I would appreciate hearing your thoughts! <br>
 
->Please don't hesitate to contact me if you have any questions. <br>
+>**Please don't hesitate to contact me if you have any questions.** <br>
 >**Thanks and enjoy reading. :)**
 
 
 ------------------------------------------------------------
 # Classification Project: Insurance claim prediction 
 ------------------------------------------------------------
-The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
-The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning methods (both theoretical and practical).
+**Project purpose:** The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
+**Project objective:** The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning methods (both theoretical and practical).
 
 A claim prediction model could be a valuable and powerful tool.  <br>
-By utilizing this tool, insurance companies can minimize risks, provide customized pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
+With this tool, insurance companies can minimize risks, provide customized pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
+
 
 The project follows the CRISP-DM methodology, which includes the following steps:
 
