@@ -19,8 +19,7 @@ layout: default
 >I hope you will find this information useful, and I would appreciate hearing your thoughts! <br>
 >Please don't hesitate to contact me if you have any questions. <br>
 >**Thanks and enjoy your reading. :)**
->
-<img width="20" src="https://github.com/Roni-N/Roni_Nakash-Portfolio/blob/main/assets/img/gss.png">
+
 
 ------------------------------------------------------------
 ## Classification Project: Insurance claim prediction 
