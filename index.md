@@ -24,24 +24,28 @@ layout: default
 ------------------------------------------------------------
 ## Classification Project: Insurance claim prediction 
 ------------------------------------------------------------
-**Project purpose:** The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
+>**Project purpose:** The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
+>
+>**Project objective:** The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning >methods (both theoretical and practical).<br>
+>
+>**Motivation:** A claim prediction model could be a valuable and powerful tool. With this tool, insurance companies can minimize risks, provide customized >pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
 
-**Project objective:** The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning methods (both theoretical and practical).
 
-**Motivation:** A claim prediction model could be a valuable and powerful tool. With this tool, insurance companies can minimize risks, provide customized pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
+**The project follows the CRISP-DM methodology, which includes the following steps:** <br>
 
+<div>
+<img src="/assets/img/wf1.png?raw=true" width="500" align="center" />
+</div>
 
->**The project follows the CRISP-DM methodology, which includes the following steps:**
->**pic link**
->As part of my work, I will apply data science and machine learning techniques, such as:
->1. Integrated Data sets. 
->2. Exploratory Data Analysis (EDA). 
->3. Feature Engineering. 
->4. Feature Selection.
->5. Imbalance Date methods. 
->6. Machine Learning models. 
->7. Evaluation and hyperparameter tuning. <br>
->Using **Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.**
+As part of my work, I will apply data science and machine learning techniques, such as:
+1. Integrated Data sets. 
+2. Exploratory Data Analysis (EDA). 
+3. Feature Engineering. 
+4. Feature Selection.
+5. Imbalance Date methods. 
+6. Machine Learning models. 
+7. Evaluation and hyperparameter tuning. <br>
+Using **Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.**
 
 [![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Insurance-claim-prediction/)
 
