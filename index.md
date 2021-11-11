@@ -31,19 +31,17 @@ layout: default
 **Motivation:** A claim prediction model could be a valuable and powerful tool. With this tool, insurance companies can minimize risks, provide customized pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
 
 
-**The project follows the CRISP-DM methodology, which includes the following steps:**
-**pic link**
-
-As part of my work, I will apply data science and machine learning techniques, such as:
-1. Integrated Data sets. 
-2. Exploratory Data Analysis (EDA). 
-3. Feature Engineering. 
-4. Feature Selection.
-5. Imbalance Date methods. 
-6. Machine Learning models. 
-7. Evaluation and hyperparameter tuning. 
-
-Using **Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.**
+>**The project follows the CRISP-DM methodology, which includes the following steps:**
+>**pic link**
+>As part of my work, I will apply data science and machine learning techniques, such as:
+>1. Integrated Data sets. 
+>2. Exploratory Data Analysis (EDA). 
+>3. Feature Engineering. 
+>4. Feature Selection.
+>5. Imbalance Date methods. 
+>6. Machine Learning models. 
+>7. Evaluation and hyperparameter tuning. 
+>Using **Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.**
 
 [![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Insurance-claim-prediction/)
 [![]("assets/img/gg2.png")](https://roni-n.github.io/Insurance-claims-prediction/)
