@@ -76,6 +76,10 @@ Next, we will integrate the data into a unified dataset by implementing the busi
 Pic 1 and link
 
 [![](https://img.shields.io/badge/GitHub-Data%integration%20code-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
+
+[![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
+
+
 ************************************************************
 
 #### 2.2 Exploratory Data Analysis (EDA)
