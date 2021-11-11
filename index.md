@@ -15,12 +15,12 @@ and a bachelor's (BS.c) in Industrial Engineering (specialization in information
 from Ben Gurion University.
 
 
-In this portfolio, I will share with you some of my knowledge in the fields of
-Data Science, Machine Learning, Artificial Intelligence Statistics, Python and more.
+In this portfolio, I will share with you some of my expertise in Data Science, Machine Learning, Artificial Intelligence, Statistics, Python, and more.
 
-I hope you will find this information helpful, and I would love to hear your opinion :)
-Please feel free to contact me in any matter!
-Cheers :)
+I hope you will find this information useful, and I would appreciate hearing your thoughts!
+Please don't hesitate to contact me if you have any questions.
+Thanks and enjoy reading. :)
+
 
 
 
