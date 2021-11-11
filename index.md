@@ -40,13 +40,10 @@ layout: default
 >4. Feature Selection.
 >5. Imbalance Date methods. 
 >6. Machine Learning models. 
->7. Evaluation and hyperparameter tuning. 
+>7. Evaluation and hyperparameter tuning. <br>
 >Using **Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.**
 
 [![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Insurance-claim-prediction/)
-[![]("assets/img/gg2.png")](https://roni-n.github.io/Insurance-claims-prediction/)
-[project 1](https://roni-n.github.io/Insurance-claims-prediction/).
-[project 2](https://roni-n.github.io/Startup-Success-Prediction/).
 
 
 ------------------------------------------------------------
