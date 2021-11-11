@@ -33,7 +33,7 @@ layout: default
 
 **The project follows the CRISP-DM methodology, which includes the following steps:** <br>
 
-<img width="460" src="/assets/img/wf1.png?raw=true">
+<img width="460" src="https://github.com/Roni-N/Roni_Nakash-Portfolio/blob/main/assets/img/wf1.png">
 <img src="/assets/img/wf1.png?raw=true">
 
                                                       
