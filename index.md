@@ -75,12 +75,8 @@ Next, we will integrate the data into a unified dataset by implementing the busi
 - Produce ground truth (label of target variable) 
 Pic 1 and link
 
-[![](https://img.shields.io/badge/GitHub-Data%integration%20code-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
 
-[![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
-
-[![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
-
+[![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration-blue?logo=Github)]https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%202%20Data%20Understanding/2.1%20Data%20integration/(ICP)%201.%20Data%20Grouping%20and%20Aggregation..ipynb)
 
 ************************************************************
 
