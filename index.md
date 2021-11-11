@@ -14,37 +14,34 @@ from Ben Gurion University.
 
 
 In this portfolio, I will share with you some of my expertise in: <br>
-**Data Science, Machine Learning, Natural Language Processing (NLP), Text classification Statistics, Python** and more. <br>
+**Data Science, Machine Learning, Natural Language Processing (NLP), Text classification, Statistics, Python** and more. <br>
 
 I hope you will find this information useful, and I would appreciate hearing your thoughts! <br>
 Please don't hesitate to contact me if you have any questions. <br>
 Thanks and enjoy reading. :)
 
 
-
-
-------------------------------------------------------------
 ------------------------------------------------------------
 # Classification Project: Insurance claim prediction 
-
-This project is a supervised learning classification task based on structured data.
+------------------------------------------------------------
+The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
 The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning methods (both theoretical and practical).
 
-A claim prediction model could be a valuable and powerful tool. 
+A claim prediction model could be a valuable and powerful tool.  <br>
 By utilizing this tool, insurance companies can minimize risks, provide customized pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
 
 The project follows the CRISP-DM methodology, which includes the following steps:
 
 As part of my work, I will apply data science and machine learning techniques, such as:
-1. Integrated Data sets, 
-2. Exploratory Data Analysis (EDA), 
+1. Integrated Data sets. 
+2. Exploratory Data Analysis (EDA). 
 3. Feature Engineering. 
-4. Feature Selection, 
-5. Imbalance Date methods, 
+4. Feature Selection.
+5. Imbalance Date methods. 
 6. Machine Learning models. 
-7. Evaluation and hyperparameter tuning 
+7. Evaluation and hyperparameter tuning. 
 
-Using Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.
+Using **Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.**
 
 [![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Insurance-claim-prediction/)
 [![]("assets/img/gg2.png")](https://roni-n.github.io/Insurance-claims-prediction/)
