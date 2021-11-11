@@ -28,8 +28,7 @@ layout: default
 
 **Project objective:** The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning methods (both theoretical and practical).
 
-**Motivation:** A claim prediction model could be a valuable and powerful tool.  <br>
-With this tool, insurance companies can minimize risks, provide customized pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
+**Motivation:** A claim prediction model could be a valuable and powerful tool. With this tool, insurance companies can minimize risks, provide customized pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
 
 
 **The project follows the CRISP-DM methodology, which includes the following steps:**
