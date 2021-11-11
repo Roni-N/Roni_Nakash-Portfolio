@@ -45,8 +45,6 @@ As part of my work, I will apply data science and machine learning techniques, s
 7. Evaluation and hyperparameter tuning. <br>
 Using **Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.**
 
-[![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Insurance-claim-prediction/)
-
 ------------------------------------------------------------
 
 ### Section 1: Business Understanding
@@ -58,7 +56,7 @@ In this section, we will learn about the business world (the insurance industry)
 >- Definition of the business problem and the project objectives
 Pic 1 and link
 
-[![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
+[![](https://img.shields.io/badge/GitHub-Business%20Understanding%20explanation-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
 
 ------------------------------------------------------------
 ### Section 2: Data Understanding
@@ -154,6 +152,7 @@ data integration, exploratory data analysis (EDA), feature engineering, feature 
 
 
 
+[![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Insurance-claim-prediction/)
 
 ------------------------------------------------------------
 
