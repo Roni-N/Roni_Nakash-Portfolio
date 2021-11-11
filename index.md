@@ -45,15 +45,15 @@ layout: default
 
 [![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Insurance-claim-prediction/)
 
-
 ------------------------------------------------------------
 
 ### Section 1: Business Understanding
-In this section, we will learn about the business world (the insurance industry) and define the business problem and the objectives of our project.
-**Topics covered:**
-- Introduction to the insurance business model
-- Terms such as The Law of Large Numbers, Expected Value, and Expected Return
-- Definition of the business problem and the project objectives
+In this section, we will learn about the business world (the insurance industry) and define the business problem and the objectives of our project.<br>
+
+>**Topics covered:**
+>- Introduction to the insurance business model
+>- Terms such as The Law of Large Numbers, Expected Value, and Expected Return
+>- Definition of the business problem and the project objectives
 Pic 1 and link
 
 [![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
