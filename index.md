@@ -33,9 +33,8 @@ layout: default
 
 **The project follows the CRISP-DM methodology, which includes the following steps:** <br>
 
-<p align="center">
-  <img width="460" src="/assets/img/wf1.png?raw=true">
-</p> 
+<img width="460" src="/assets/img/wf1.png?raw=true">
+
                                                       
 As part of my work, I will apply data science and machine learning techniques, such as:
 1. Integrated Data sets. 
