@@ -6,8 +6,6 @@ layout: default
 # Hello and welcome to my portfolio!
 ------------------------------------------------------------
 
-### My name is Roni Nakash, and I'm a Data Scientist.
-
 >In this portfolio, I will share with you some of my expertise in: <br>
 >**Data Science & Machine Learning techniques, Natural Language Processing (NLP) & Text classification, Statistics and more.** <br>
 
@@ -15,15 +13,14 @@ layout: default
 >Please don't hesitate to contact me if you have any questions. <br>
 >**Thanks and enjoy your reading. :)**
 
-
 ------------------------------------------------------------
 ## Classification Project: Insurance claim prediction 
 ------------------------------------------------------------
 > **Project purpose:** The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
 
-> **Project objective:** The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning > methods (both theoretical and practical).<br>
+> **Project objective:** The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning  methods (both theoretical and practical).<br> The purpose of this model is to determine (and produce the probability) of whether policyholder candidates will make a future insurance claim based upon their characteristics.
 
-> **Motivation:** A claim prediction model could be a valuable and powerful tool. With this tool, insurance companies can minimize risks, provide customized > pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
+> **Motivation:** A claim prediction model could be a valuable and powerful tool for the insurance industry. With this tool, insurance companies can minimize risks, provide customized > pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
 
 
 **The project follows the CRISP-DM methodology, which includes the following steps:** <br>
