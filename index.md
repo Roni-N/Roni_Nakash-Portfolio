@@ -8,11 +8,6 @@ layout: default
 
 ### My name is Roni Nakash, and I'm a Data Scientist.
 
->**About me:** I have a Master's (MS.c) in Industrial Engineering (specialization in Data Science) 
->and a bachelor's (BS.c) in Industrial Engineering (specialization in information systems) 
->from Ben Gurion University.
-
-
 >In this portfolio, I will share with you some of my expertise in: <br>
 >**Data Science & Machine Learning techniques, Natural Language Processing (NLP) & Text classification, Statistics and more.** <br>
 
