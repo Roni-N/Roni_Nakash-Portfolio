@@ -88,7 +88,7 @@ This section will conclude with Imbalanced data handling. Our data set does not 
 >- **Oversampling** ( sample extraction and sample generation methods).
 >- **Ensemble Method** (data level, cost-sensitive, ensemble algorithms).
 
-[![](https://img.shields.io/badge/GitHub-3.3%20Imbalance%20SData%20Code-blue?logo=Github)]()
+[![](https://img.shields.io/badge/GitHub-3.3%20Imbalance%20Data%20Code-blue?logo=Github)]()
 
 ************************************************************
 
@@ -102,7 +102,7 @@ In this section, we will train different machine learning algorithms to create m
 >- Naive Bayes classifier. 
 >- KNN classifier. 
 
-[![](https://img.shields.io/badge/GitHub-4%20Imbalance%20SData%20Code-blue?logo=Github)]()
+[![](https://img.shields.io/badge/GitHub-4%20Imbalance%20Data%20Code-blue?logo=Github)]()
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 5: Evaluation and Hyperparameters Tuning  </span>
@@ -114,14 +114,14 @@ We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal h
 >- Search Algorithms (Grid search, Random search).
 >- Bayesian Optimization.
 
-[![](https://img.shields.io/badge/GitHub-5%20Imbalance%20SData%20Code-blue?logo=Github)]()
+[![](https://img.shields.io/badge/GitHub-5%20Imbalance%20Data%20Code-blue?logo=Github)]()
 
 ------------------------------------------------------------
 
 
 
 ------------------------------------------------------------
-## <span style="color:#4863A0">Natural Language Processing (NLP) & Text classification - Sentiment analysis and sentiment classification</span>
+## <span style="color:#4863A0">Natural Language Processing (NLP) & Text classification: <br> Sentiment analysis and sentiment classification</span>
 -- **Will be updated soon!!**
 In this project, I will conduct a sentiment analysis using statistical methods, in addition to training and evaluating a sentiment classifier for Amazon products reviews using Natural Language Processing. <br>
 **Topics covered:**
