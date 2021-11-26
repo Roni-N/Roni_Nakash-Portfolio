@@ -82,11 +82,11 @@ In this part, we will perform Exploratory Data Analysis (EDA) in order to conduc
 
 ************************************************************
 #### **3.3 Imbalance Data:** -- **Will be updated soon!!**
-This section will conclude with Imbalanced data handling. Our data set does not have an equally distributed distribution of observations by class. Most standard classifier learning algorithms performed poorly in this issue cloud. It can be resolved by balancing the two classes.<br>
-**Topics covered:**
->- **Undersampling** (Fixed and Cleaning methods).
->- **Oversampling** ( sample extraction and sample generation methods).
->- **Ensemble Method** (data level, cost-sensitive, ensemble algorithms).
+
+**Balancing the target variable distribution using:**
+>- **Undersampling:** Fixed and Cleaning methods.
+>- **Oversampling:** sample extraction and sample generation methods.
+>- **Ensemble Method:** data level, cost-sensitive, ensemble algorithms.
 
 [![](https://img.shields.io/badge/GitHub-3.3%20Imbalance%20Data%20Code-blue?logo=Github)]()
 
