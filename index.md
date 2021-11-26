@@ -18,7 +18,7 @@ layout: default
 ------------------------------------------------------------
 > **Project purpose:** The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
 
-> **Project objective:** The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning  methods (both theoretical and practical).<br> The purpose of this model is to determine (and produce the probability) of whether policyholder candidates will make a future insurance claim based upon their characteristics.
+> **Project objective:** The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning  methods (both theoretical and practical).<br> The purpose of this model is to predict (and determine the probability) whether future policyholders will make a future claim based on their characteristics.
 
 > **Motivation:** A claim prediction model could be a valuable and powerful tool for the insurance industry. With this tool, insurance companies can minimize risks, provide customized > pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
 
