@@ -62,8 +62,8 @@ In this part, we will perform Exploratory Data Analysis (EDA) in order to conduc
 **Extracting features from raw data using:**
 >- **Missing Data Imputation:** Multivariate & univariate methods.
 >- **Categorical Features Encoding:** Target & frequency encoding methods.
->- **Transformations:** Exponential & Box Cox transformations.
->- **Discretisations:** Frequency binning.
+>- **Transformations:** Exponential & Box Cox transformations methods.
+>- **Discretisations:** Frequency binning method.
 >- **Outliers Handling.** 
 >- **Features Scaling.**
 >- **Producing New Features.**
@@ -72,11 +72,11 @@ In this part, we will perform Exploratory Data Analysis (EDA) in order to conduc
 
 ************************************************************
 #### **3.2 Feature Selection:** -- **Will be updated soon!!**
-<br>
-**Removing non-informative and redundant features using:** <br>
->- **Filter methods** (variance and statistical test, correlations, univariate selection)
->- **Wrapper methods** (forward / backward selection, exhaustive search)
->- **Embedded methods** (lasso, tree importance)
+
+**Removing non-informative and redundant features using:**
+>- **Filter methods:** statistical methods - variance, statistical test, correlations and more
+>- **Wrapper methods:** Forward / Backward selection methods.
+>- **Embedded methods:** Lasso, Tree importance methods.
 
 [![](https://img.shields.io/badge/GitHub-3.2%20Feature%20Selection%20Code-blue?logo=Github)]()
 
