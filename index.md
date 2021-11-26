@@ -51,7 +51,6 @@ In this section, we will learn about the business world (the insurance industry)
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 2: Data Understanding</span>.
-### Section 2: Data Understanding
 
 #### 2.1 Data integration 
 In this section, we will first explore the available data & features from different datasets. 
@@ -70,8 +69,8 @@ In this part, we will perform Exploratory Data Analysis (EDA) to perform prelimi
 
 [![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20code-blue?logo=Github)]()
 ------------------------------------------------------------
-### <span style="color:#728FCE">Section 3: Data preparation </span>.
-### Section 3: Data preparation 
+### <span style="color:#728FCE">Section 3: Data preparation </span>
+
 #### 3.1 Feature Engineering:
 In this section, we will use multiple methods and techniques to convert (process & transform) raw data into features that better represent the underlying problem in a predictive model.<br>
 >**Topics covered:**
@@ -102,9 +101,8 @@ This section will conclude with Imbalanced data handling. Our data set does not 
 ************************************************************
 
 ------------------------------------------------------------
-### <span style="color:#728FCE">Section 4: Machine Learning Algorithms </span>.
+### <span style="color:#728FCE">Section 4: Machine Learning Algorithms </span>
 
-### Section 4: Machine Learning Algorithms 
 In this section, we will train different machine learning algorithms to create models that could predict future claim insurance premiums.<br>
 >**Classification models such as:**
 >- Logistic regression.
@@ -113,9 +111,8 @@ In this section, we will train different machine learning algorithms to create m
 >- KNN classifier. 
 
 ------------------------------------------------------------
-### <span style="color:#728FCE">Section 5: Evaluation and Hyperparameters Tuning  </span>.
+### <span style="color:#728FCE">Section 5: Evaluation and Hyperparameters Tuning  </span>
 
-### Section 5: Evaluation and Hyperparameters Tuning 
 In this section, we will evaluate the model's performance based on relevant performance metrics.
 We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal hyperparameters) to improve model performance.<br>
 >**Topics covered:**
@@ -128,7 +125,7 @@ We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal h
 
 
 ------------------------------------------------------------
-## <span style="color:#4863A0">Natural Language Processing (NLP) & Text classification - Sentiment analysis and sentiment classification</span>.
+## <span style="color:#4863A0">Natural Language Processing (NLP) & Text classification - Sentiment analysis and sentiment classification</span>
 
 In this project, I will conduct a sentiment analysis using statistical methods, in addition to training and evaluating a sentiment classifier for Amazon products reviews using Natural Language Processing. <br>
 >**Topics covered:**
