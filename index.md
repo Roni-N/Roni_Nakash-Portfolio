@@ -50,7 +50,7 @@ layout: default
 ************************************************************
 
 #### **2.2 Exploratory Data Analysis (EDA)** -- **Will be updated soon!!**
-In this part, we will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, **discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs**.
+In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, **discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs**.
 
 [![](https://img.shields.io/badge/GitHub-2.2%20Exploratory%20Data%20Analysis%20Code-blue?logo=Github)]()
 
