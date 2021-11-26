@@ -95,7 +95,6 @@ In this part, we will perform Exploratory Data Analysis (EDA) in order to conduc
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 4: Machine Learning Algorithms </span> 
 -- **Will be updated soon!!**<br>
-In this section, we will train different machine learning algorithms to create models that could predict future claim insurance premiums.<br>
 **Training of classification models such as:**
 >- Logistic regression.
 >- SVM.
