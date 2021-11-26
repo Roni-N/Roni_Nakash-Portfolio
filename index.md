@@ -39,7 +39,7 @@ layout: default
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 2: Data Understanding</span>
 #### 2.1 Data integration 
->**Topics covered:**
+**Topics covered:**
 >- Exploring the available features and datasets.
 >- Integrating the datasets according to the business process.
 >- Comparing **Pandas library** to **SQL** basic functions.
