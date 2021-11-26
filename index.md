@@ -73,7 +73,7 @@ In this part, we will perform Exploratory Data Analysis (EDA) in order to conduc
 ************************************************************
 #### **3.2 Feature Selection:** -- **Will be updated soon!!**
 <br>
-**Removing non-informative and redundant features using:**
+**Removing non-informative and redundant features using:** <br>
 >- **Filter methods** (variance and statistical test, correlations, univariate selection)
 >- **Wrapper methods** (forward / backward selection, exhaustive search)
 >- **Embedded methods** (lasso, tree importance)
