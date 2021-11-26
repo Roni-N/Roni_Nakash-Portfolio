@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# <span style="color:#4863A0">Hello and welcome to my portfolio!</span>
+# <span style="color:#728FCE">Hello and welcome to my portfolio!</span>
 ------------------------------------------------------------
 
 >In this portfolio, I will share with you some of my expertise in: <br>
@@ -14,7 +14,7 @@ layout: default
 >**Thanks and enjoy your reading. :)**
 
 ------------------------------------------------------------
-## <span style="color:#4863A0">Classification Project:<br> Insurance claim prediction.</span>
+## <span style="color:#728FCE">Classification Project:<br> Insurance claim prediction.</span>
 ------------------------------------------------------------
 > **Project purpose:** The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
 
