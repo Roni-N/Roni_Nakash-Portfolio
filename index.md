@@ -65,22 +65,21 @@ Next, we will integrate the data into a unified dataset by implementing the busi
 ************************************************************
 
 #### 2.2 Exploratory Data Analysis (EDA)
-In the next step, we will perform Exploratory Data Analysis (EDA) to perform preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
+In the part, we will perform Exploratory Data Analysis (EDA) to perform preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
 
 [![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20code-blue?logo=Github)]()
 ------------------------------------------------------------
 ### Section 3: Data preparation 
 #### 3.1 Feature Engineering:
-In this section, we will use multiple methods and techniques to convert (process & transform) raw data into features that better represent the underlying problem in a predictive model.
+In this section, we will use multiple methods and techniques to convert (process & transform) raw data into features that better represent the underlying problem in a predictive model.<br>
 **Topics covered:**
-- Missing Data Imputation
-- Categorical Features Encoding
-- Transformations
-- Discretisations
-- Outliers Handling
-- Features Scaling
-- Engineering New Features
-Pic 1 and link
+- Missing Data Imputation.
+- Categorical Features Encoding.
+- Transformations.
+- Discretisations.
+- Outliers Handling.
+- Features Scaling.
+- Engineering New Features.
 
 ************************************************************
 #### 3.2 Feature Selection: 
