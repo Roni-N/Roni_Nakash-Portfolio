@@ -65,51 +65,48 @@ Next, we will integrate the data into a unified dataset by implementing the busi
 ************************************************************
 
 #### 2.2 Exploratory Data Analysis (EDA)
-In the part, we will perform Exploratory Data Analysis (EDA) to perform preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
+In this part, we will perform Exploratory Data Analysis (EDA) to perform preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
 
 [![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20code-blue?logo=Github)]()
 ------------------------------------------------------------
 ### Section 3: Data preparation 
 #### 3.1 Feature Engineering:
 In this section, we will use multiple methods and techniques to convert (process & transform) raw data into features that better represent the underlying problem in a predictive model.<br>
-**Topics covered:**
-- Missing Data Imputation.
-- Categorical Features Encoding.
-- Transformations.
-- Discretisations.
-- Outliers Handling.
-- Features Scaling.
-- Engineering New Features.
+>**Topics covered:**
+>- Missing Data Imputation.
+>- Categorical Features Encoding.
+>- Transformations.
+>- Discretisations.
+>- Outliers Handling.
+>- Features Scaling.
+>- Engineering New Features.
 
 ************************************************************
 #### 3.2 Feature Selection: 
-In the next step, we will use feature selection methods to reduce the number of input variables (i.e. remove non-informative or redundant features) to those that will provide the greatest level of predictive power for the target variable.
-**Topics covered:**
-- Filter methods (variance and statistical test, correlations, univariate selection)
-- Wrapper methods (forward / backward selection, exhaustive search)
-- Embedded methods (lasso, tree importance)
-Pic 1 and link
+In this part, we will use feature selection methods to reduce the number of input variables (i.e. remove non-informative or redundant features) to those that will provide the greatest level of predictive power for the target variable.<br>
+>**Topics covered:**
+>- **Filter methods** (variance and statistical test, correlations, univariate selection)
+>- **Wrapper methods** (forward / backward selection, exhaustive search)
+>- **Embedded methods** (lasso, tree importance)
 
 ************************************************************
 #### 3.3 Imbalance Data: 
-This section will conclude with Imbalanced data handling. Our data set does not have an equally distributed distribution of observations by class. Most standard classifier learning algorithms performed poorly in this issue cloud. It can be resolved by balancing the two classes.
-**Topics covered:**
-- Undersampling (Fixed and Cleaning methods)
-- Oversampling ( sample extraction and sample generation methods)
-- Ensemble Method (data level, cost-sensitive, ensemble algorithms)
-Pic 1 and link
+This section will conclude with Imbalanced data handling. Our data set does not have an equally distributed distribution of observations by class. Most standard classifier learning algorithms performed poorly in this issue cloud. It can be resolved by balancing the two classes.<br>
+>**Topics covered:**
+>- **Undersampling** (Fixed and Cleaning methods).
+>- **Oversampling** ( sample extraction and sample generation methods).
+>- **Ensemble Method** (data level, cost-sensitive, ensemble algorithms).
 
 ************************************************************
 
 ------------------------------------------------------------
 ### Section 4: Machine Learning Algorithms 
-In this section, we will train different machine learning algorithms to create models that could predict future claim insurance premiums.
-**Classification models such as:**
-- Logistic regression 
-- SVM
-- Naive Bayes classifier  
-- Random Forest
-- KNN classifier 
+In this section, we will train different machine learning algorithms to create models that could predict future claim insurance premiums.<br>
+>**Classification models such as:**
+>- Logistic regression.
+>- SVM.
+>- Naive Bayes classifier. 
+>- KNN classifier. 
 
 ------------------------------------------------------------
 ### Section 5: Evaluation and Hyperparameters Tuning 
