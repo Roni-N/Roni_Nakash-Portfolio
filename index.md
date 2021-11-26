@@ -29,8 +29,6 @@ layout: default
 ------------------------------------------------------------
 
 ### <span style="color:#728FCE">Section 1: Business Understanding</span>
-In this section, we will learn about the business world (the insurance industry) and define the business problem and the objectives of our project.<br>
-
 >**Topics covered:**
 >- Introduction to the Automobile Insurance industry and the business model.
 >- Terms such as "The Law of Large Numbers", "Expected Value", and "Expected Return".
@@ -41,7 +39,6 @@ In this section, we will learn about the business world (the insurance industry)
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 2: Data Understanding</span>.
-
 #### 2.1 Data integration 
 >**Topics covered:**
 >- Exploring the available features and datasets.
