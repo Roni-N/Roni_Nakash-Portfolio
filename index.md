@@ -38,8 +38,8 @@ layout: default
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 2: Data Understanding</span>
-#### 2.1 Data integration 
-**Topics covered:**
+#### **2.1 Data integration**
+**Main steps:**
 >- Exploring the available features and datasets.
 >- Integrating the datasets according to the business process.
 >- Comparing **Pandas library** to **SQL** basic functions.
@@ -49,7 +49,7 @@ layout: default
 
 ************************************************************
 
-#### 2.2 Exploratory Data Analysis (EDA) -- **Will be updated soon!!**
+#### **2.2 Exploratory Data Analysis (EDA)** -- **Will be updated soon!!**
 In this part, we will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, **discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs**.
 
 [![](https://img.shields.io/badge/GitHub-2.2%20Exploratory%20Data%20Analysis%20Code-blue?logo=Github)]()
@@ -58,8 +58,8 @@ In this part, we will perform Exploratory Data Analysis (EDA) in order to conduc
 
 ### <span style="color:#728FCE">Section 3: Data preparation </span>
 
-#### 3.1 Feature Engineering: -- **Will be updated soon!!** <br>
-**Topics covered:**
+#### **3.1 Feature Engineering:** -- **Will be updated soon!!** <br>
+**Extracting features from raw data using:**
 >- **Missing Data Imputation:** Multivariate & univariate methods.
 >- **Categorical Features Encoding:** Target & frequency encoding methods.
 >- **Transformations:** Exponential & Box Cox transformations.
@@ -71,9 +71,9 @@ In this part, we will perform Exploratory Data Analysis (EDA) in order to conduc
 [![](https://img.shields.io/badge/GitHub-3.1%20Feature%20Engineering%20Code-blue?logo=Github)]()
 
 ************************************************************
-#### 3.2 Feature Selection: -- **Will be updated soon!!**
-In this part, we will use feature selection methods to reduce the number of input variables (i.e. remove non-informative or redundant features) to those that will provide the greatest level of predictive power for the target variable.<br>
-**Topics covered:**
+#### **3.2 Feature Selection:** -- **Will be updated soon!!**
+<br>
+**Removing non-informative and redundant features using:**
 >- **Filter methods** (variance and statistical test, correlations, univariate selection)
 >- **Wrapper methods** (forward / backward selection, exhaustive search)
 >- **Embedded methods** (lasso, tree importance)
@@ -81,7 +81,7 @@ In this part, we will use feature selection methods to reduce the number of inpu
 [![](https://img.shields.io/badge/GitHub-3.2%20Feature%20Selection%20Code-blue?logo=Github)]()
 
 ************************************************************
-#### 3.3 Imbalance Data: -- **Will be updated soon!!**
+#### **3.3 Imbalance Data:** -- **Will be updated soon!!**
 This section will conclude with Imbalanced data handling. Our data set does not have an equally distributed distribution of observations by class. Most standard classifier learning algorithms performed poorly in this issue cloud. It can be resolved by balancing the two classes.<br>
 **Topics covered:**
 >- **Undersampling** (Fixed and Cleaning methods).
