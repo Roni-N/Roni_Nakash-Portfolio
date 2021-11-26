@@ -14,7 +14,7 @@ layout: default
 >**Thanks and enjoy your reading. :)**
 
 ------------------------------------------------------------
-## <span style="color:lightblue">Classification Project:<br> Insurance claim prediction</span>.
+## <span style="color:#98AFC7">Classification Project:<br> Insurance claim prediction</span>.
 ------------------------------------------------------------
 > **Project purpose:** The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
 
