@@ -42,10 +42,10 @@ Using **Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.**
 In this section, we will learn about the business world (the insurance industry) and define the business problem and the objectives of our project.<br>
 
 >**Topics covered:**
->- Introduction to the insurance business model
->- Terms such as The Law of Large Numbers, Expected Value, and Expected Return
->- Definition of the business problem and the project objectives
-Pic 1 and link
+>- Introduction to the insurance business model.
+>- Terms such as "The Law of Large Numbers", "Expected Value", and "Expected Return".
+>- Definition of the business problem and the project objectives.
+
 
 [![](https://img.shields.io/badge/GitHub-Business%20Understanding%20explanation-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
 
