@@ -20,7 +20,7 @@ layout: default
 
 > **Project objective:** The objective of this project is to develop a claim prediction model from different data sets using data science and machine learning  methods (both theoretical and practical).<br> The purpose of this model is to predict (and determine the probability) whether future policyholders will make a future claim based on their characteristics.
 
-> **Motivation:** A claim prediction model could be a valuable and powerful tool for the insurance industry. With this tool, insurance companies can minimize risks, provide customized > pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
+> **Motivation:** A claim prediction model could be a valuable and powerful tool for the insurance industry. With this tool, insurance companies can minimize risks, provide customized pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
 
 
 **The project follows the CRISP-DM methodology, which includes the following steps:** <br>
@@ -44,7 +44,7 @@ In this section, we will learn about the business world (the insurance industry)
 >**Topics covered:**
 >- Introduction to the insurance business model.
 >- Terms such as "The Law of Large Numbers", "Expected Value", and "Expected Return".
->- Definition of the business problem and the project objectives.
+>- Definition of the business problem and project objectives.
 
 
 [![](https://img.shields.io/badge/GitHub-Business%20Understanding%20explanation-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
@@ -54,12 +54,12 @@ In this section, we will learn about the business world (the insurance industry)
 
 #### 2.1 Data integration 
 In this section, we will first explore the available data & features from different datasets. 
-Next, we will integrate the data into a unified dataset by implementing the business workflow, and finally, we will produce the target variable.
-**Topics covered:**
-- Integrate datasets through business workflow
-- Comparing Pandas library to SQL basic functions 
-- Produce ground truth (label of target variable) 
-Pic 1 and link
+Next, we will integrate the data into a unified dataset by implementing the business workflow, and finally, we will produce the target variable.<br>
+>**Topics covered:**
+>- Integrate datasets through business workflow.
+>- Comparing Pandas library to SQL basic functions.
+>- Produce ground truth (label of target variable). 
+
 
 
 [![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20code-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%202%20Data%20Understanding/2.1%20Data%20integration/(ICP)%201.%20Data%20Grouping%20and%20Aggregation..ipynb)
