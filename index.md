@@ -26,7 +26,7 @@ layout: default
 **The project follows the CRISP-DM methodology, which includes the following steps:** <br>
 ![](/assets/img/wf1.png)
                                                       
-As part of my work, I will apply data science and machine learning techniques, such as:
+As part of my work, I will perform data science and machine learning techniques, including:
 1. Integrated Data sets. 
 2. Exploratory Data Analysis (EDA). 
 3. Feature Engineering. 
