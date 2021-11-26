@@ -128,7 +128,7 @@ We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal h
 
 
 ------------------------------------------------------------
-## <span style="color:#728FCE">Natural Language Processing (NLP) & Text classification - Sentiment analysis and sentiment classification</span>.
+## <span style="color:#4863A0">Natural Language Processing (NLP) & Text classification - Sentiment analysis and sentiment classification</span>.
 
 In this project, I will conduct a sentiment analysis using statistical methods, in addition to training and evaluating a sentiment classifier for Amazon products reviews using Natural Language Processing. <br>
 >**Topics covered:**
