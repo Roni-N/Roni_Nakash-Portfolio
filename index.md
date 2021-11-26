@@ -74,9 +74,9 @@ In this part, we will perform Exploratory Data Analysis (EDA) in order to conduc
 #### **3.2 Feature Selection:** -- **Will be updated soon!!**
 
 **Removing non-informative and redundant features using:**
->- **Filter methods:** statistical methods - variance, statistical test, correlations and more
->- **Wrapper methods:** Forward / Backward selection methods.
->- **Embedded methods:** Lasso, Tree importance methods.
+>- **Filter (statistical) methods:** variance, statistical test, correlations, mutual information
+>- **Wrapper methods:** Forward / Backward selection.
+>- **Embedded methods:** Lasso, Tree importance.
 
 [![](https://img.shields.io/badge/GitHub-3.2%20Feature%20Selection%20Code-blue?logo=Github)]()
 
