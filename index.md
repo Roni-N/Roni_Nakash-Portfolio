@@ -55,6 +55,8 @@ In this part, we will perform Exploratory Data Analysis (EDA) to perform prelimi
 
 [![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20code-blue?logo=Github)]()
 ------------------------------------------------------------
+
+------------------------------------------------------------
 ### <span style="color:#728FCE">Section 3: Data preparation </span>
 
 #### 3.1 Feature Engineering:
