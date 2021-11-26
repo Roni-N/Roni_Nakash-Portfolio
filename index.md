@@ -59,8 +59,7 @@ In this part, we will perform Exploratory Data Analysis (EDA) in order to conduc
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 3: Data preparation </span>
 
-#### 3.1 Feature Engineering:
-In this section, we will use multiple methods and techniques to convert (process & transform) raw data into features that better represent the underlying problem in a predictive model.<br>
+#### 3.1 Feature Engineering: <br>
 >**Topics covered:**
 >- **Missing Data Imputation:** Multivariate & univariate methods.
 >- **Categorical Features Encoding:** Target encoding, frequency encoding and more.
