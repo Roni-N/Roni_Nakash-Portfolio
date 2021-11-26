@@ -13,6 +13,7 @@ layout: default
 >Please don't hesitate to contact me if you have any questions. <br>
 >**Thanks and enjoy your reading. :)**
 
+##<span style="color:blue">Classification Project: Insurance claim prediction</span>.
 ------------------------------------------------------------
 ## Classification Project: Insurance claim prediction 
 ------------------------------------------------------------
