@@ -45,14 +45,14 @@ layout: default
 >- Comparing **Pandas library** to **SQL** basic functions.
 >- Produce ground truth (labeling the target variable). 
 
-[![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20code-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%202%20Data%20Understanding/2.1%20Data%20integration/(ICP)%201.%20Data%20Grouping%20and%20Aggregation..ipynb)
+[![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20Code-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%202%20Data%20Understanding/2.1%20Data%20integration/(ICP)%201.%20Data%20Grouping%20and%20Aggregation..ipynb)
 
 ************************************************************
 
 #### 2.2 Exploratory Data Analysis (EDA) -- **Will be updated soon!!**
 In this part, we will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, **discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs**.
 
-[![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20code-blue?logo=Github)]()
+[![](https://img.shields.io/badge/GitHub-2.1%20Exploratory%20Data%20Analysis%20Code-blue?logo=Github)]()
 
 ***
 
@@ -67,6 +67,7 @@ In this part, we will perform Exploratory Data Analysis (EDA) in order to conduc
 >- **Outliers Handling.** 
 >- **Features Scaling.**
 >- **Producing New Features.**
+[![](https://img.shields.io/badge/GitHub-2.1%20Feature%20Engineering%20Code-blue?logo=Github)]()
 
 ************************************************************
 #### 3.2 Feature Selection: -- **Will be updated soon!!**
@@ -76,6 +77,8 @@ In this part, we will use feature selection methods to reduce the number of inpu
 >- **Wrapper methods** (forward / backward selection, exhaustive search)
 >- **Embedded methods** (lasso, tree importance)
 
+[![](https://img.shields.io/badge/GitHub-2.1%20Feature%20Selection%20Code-blue?logo=Github)]()
+
 ************************************************************
 #### 3.3 Imbalance Data: -- **Will be updated soon!!**
 This section will conclude with Imbalanced data handling. Our data set does not have an equally distributed distribution of observations by class. Most standard classifier learning algorithms performed poorly in this issue cloud. It can be resolved by balancing the two classes.<br>
@@ -83,6 +86,8 @@ This section will conclude with Imbalanced data handling. Our data set does not 
 >- **Undersampling** (Fixed and Cleaning methods).
 >- **Oversampling** ( sample extraction and sample generation methods).
 >- **Ensemble Method** (data level, cost-sensitive, ensemble algorithms).
+
+[![](https://img.shields.io/badge/GitHub-2.1%20Imbalance%20SData%20Code-blue?logo=Github)]()
 
 ************************************************************
 
@@ -95,6 +100,7 @@ In this section, we will train different machine learning algorithms to create m
 >- SVM.
 >- Naive Bayes classifier. 
 >- KNN classifier. 
+[![](https://img.shields.io/badge/GitHub-2.1%20Imbalance%20SData%20Code-blue?logo=Github)]()
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 5: Evaluation and Hyperparameters Tuning  </span>
@@ -105,6 +111,7 @@ We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal h
 >- Cross-validation.
 >- Search Algorithms (Grid search, Random search).
 >- Bayesian Optimization.
+[![](https://img.shields.io/badge/GitHub-2.1%20Imbalance%20SData%20Code-blue?logo=Github)]()
 
 ------------------------------------------------------------
 
@@ -118,6 +125,7 @@ In this project, I will conduct a sentiment analysis using statistical methods, 
 >- Cross-validation.
 >- Search Algorithms (Grid search, Random search).
 >- Bayesian Optimization.
+[![](https://img.shields.io/badge/GitHub-2.1%20Imbalance%20SData%20Code-blue?logo=Github)]()
 
 [![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Natural-Language-Processing-NLP-Text-classification/)
 
