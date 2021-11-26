@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# <span style="color:#728FCE">Hello and welcome to my portfolio!</span>
+# <span style="color:#4863A0">Hello and welcome to my portfolio!</span>
 ------------------------------------------------------------
 
 >In this portfolio, I will share with you some of my expertise in: <br>
@@ -14,7 +14,7 @@ layout: default
 >**Thanks and enjoy your reading. :)**
 
 ------------------------------------------------------------
-## <span style="color:#728FCE">Classification Project:<br> Insurance claim prediction.</span>
+## <span style="color:#4863A0">Classification Project:<br> Insurance claim prediction.</span>
 ------------------------------------------------------------
 > **Project purpose:** The purpose of this project is to conduct a supervised learning classification task based on structured data.  <br>
 
@@ -38,7 +38,7 @@ Using **Numpy, Pandas, Matplotlib, Scikit-Learn, and other Python libraries.**
 
 ------------------------------------------------------------
 
-### <span style="color:blue">Section 1: Business Understanding</span>.
+### <span style="color:#728FCE">Section 1: Business Understanding</span>.
 In this section, we will learn about the business world (the insurance industry) and define the business problem and the objectives of our project.<br>
 
 >**Topics covered:**
@@ -50,7 +50,7 @@ In this section, we will learn about the business world (the insurance industry)
 [![](https://img.shields.io/badge/GitHub-Business%20Understanding%20explanation-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
 
 ------------------------------------------------------------
-### <span style="color:blue">Section 2: Data Understanding</span>.
+### <span style="color:#728FCE">Section 2: Data Understanding</span>.
 ### Section 2: Data Understanding
 
 #### 2.1 Data integration 
@@ -70,7 +70,7 @@ In this part, we will perform Exploratory Data Analysis (EDA) to perform prelimi
 
 [![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20code-blue?logo=Github)]()
 ------------------------------------------------------------
-### <span style="color:blue">Section 3: Data preparation </span>.
+### <span style="color:#728FCE">Section 3: Data preparation </span>.
 ### Section 3: Data preparation 
 #### 3.1 Feature Engineering:
 In this section, we will use multiple methods and techniques to convert (process & transform) raw data into features that better represent the underlying problem in a predictive model.<br>
@@ -102,7 +102,7 @@ This section will conclude with Imbalanced data handling. Our data set does not 
 ************************************************************
 
 ------------------------------------------------------------
-### <span style="color:blue">Section 4: Machine Learning Algorithms </span>.
+### <span style="color:#728FCE">Section 4: Machine Learning Algorithms </span>.
 
 ### Section 4: Machine Learning Algorithms 
 In this section, we will train different machine learning algorithms to create models that could predict future claim insurance premiums.<br>
@@ -113,7 +113,7 @@ In this section, we will train different machine learning algorithms to create m
 >- KNN classifier. 
 
 ------------------------------------------------------------
-### <span style="color:blue">Section 5: Evaluation and Hyperparameters Tuning  </span>.
+### <span style="color:#728FCE">Section 5: Evaluation and Hyperparameters Tuning  </span>.
 
 ### Section 5: Evaluation and Hyperparameters Tuning 
 In this section, we will evaluate the model's performance based on relevant performance metrics.
@@ -128,7 +128,7 @@ We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal h
 
 
 ------------------------------------------------------------
-## <span style="color:blue">Natural Language Processing (NLP) & Text classification - Sentiment analysis and sentiment classification</span>.
+## <span style="color:#728FCE">Natural Language Processing (NLP) & Text classification - Sentiment analysis and sentiment classification</span>.
 
 In this project, I will conduct a sentiment analysis using statistical methods, in addition to training and evaluating a sentiment classifier for Amazon products reviews using Natural Language Processing. <br>
 >**Topics covered:**
