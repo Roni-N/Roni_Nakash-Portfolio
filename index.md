@@ -22,8 +22,7 @@ layout: default
 
 > **Motivation:** A claim prediction model could be a valuable and powerful tool for the insurance industry. With this tool, insurance companies can minimize risks, provide customized pricing and premiums, streamline operational processes, drive down costs, and increase profit margins.
 
-### <span style="color:#4863A0">The project follows the CRISP-DM methodology, which includes the following steps:</span>
-
+### <span style="color:#4863A0">This project is based on the CRISP-DM methodology, which includes the following steps:</span>
 ![](/assets/img/wf1.png)
                                                       
 ------------------------------------------------------------
