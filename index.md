@@ -32,7 +32,7 @@ layout: default
 >- Introduction to the Automobile Insurance industry and the business model.
 >- Terms such as **"The Law of Large Numbers", "Expected Value", and "Expected Return"**.
 >- **Defining the business problem and project objectives.**
-**
+
 
 [![](https://img.shields.io/badge/GitHub-Business%20Understanding%20explanation-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
 
@@ -42,7 +42,7 @@ layout: default
 >**Topics covered:**
 >- Exploring the available features and datasets.
 >- Integrating the datasets according to the business process.
->- Comparing **Pandas library to SQL** basic functions.
+>- Comparing **Pandas library** to **SQL** basic functions.
 >- Produce ground truth (labeling the target variable). 
 
 [![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20code-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%202%20Data%20Understanding/2.1%20Data%20integration/(ICP)%201.%20Data%20Grouping%20and%20Aggregation..ipynb)
@@ -50,10 +50,11 @@ layout: default
 ************************************************************
 
 #### 2.2 Exploratory Data Analysis (EDA)
-In this part, we will perform Exploratory Data Analysis (EDA) to perform preliminary investigations, **discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs**.
+In this part, we will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, **discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs**.
 
 [![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20code-blue?logo=Github)]()
-************************************************************
+
+***
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 3: Data preparation </span>
@@ -61,13 +62,13 @@ In this part, we will perform Exploratory Data Analysis (EDA) to perform prelimi
 #### 3.1 Feature Engineering:
 In this section, we will use multiple methods and techniques to convert (process & transform) raw data into features that better represent the underlying problem in a predictive model.<br>
 >**Topics covered:**
->- Missing Data Imputation.
->- Categorical Features Encoding.
->- Transformations.
->- Discretisations.
->- Outliers Handling.
->- Features Scaling.
->- Engineering New Features.
+>- **Missing Data Imputation:** Multivariate & univariate methods.
+>- **Categorical Features Encoding:** Target encoding, frequency encoding and more.
+>- **Transformations:** Exponential and Box Cox transformation.
+>- **Discretisations:** Frequency binning.
+>- **Outliers Handling.** 
+>- **Features Scaling.**
+>- **Producing New Features.**
 
 ************************************************************
 #### 3.2 Feature Selection: 
