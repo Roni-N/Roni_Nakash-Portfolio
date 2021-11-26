@@ -56,10 +56,9 @@ In this part, we will perform Exploratory Data Analysis (EDA) in order to conduc
 
 ***
 
-------------------------------------------------------------
 ### <span style="color:#728FCE">Section 3: Data preparation </span>
 
-#### 3.1 Feature Engineering: <br> -- **Will be updated soon!!**
+#### 3.1 Feature Engineering: -- **Will be updated soon!!** <br>
 >**Topics covered:**
 >- **Missing Data Imputation:** Multivariate & univariate methods.
 >- **Categorical Features Encoding:** Target & frequency encoding methods.
