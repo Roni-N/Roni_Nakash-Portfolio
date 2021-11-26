@@ -111,23 +111,25 @@ In this section, we will train different machine learning algorithms to create m
 ------------------------------------------------------------
 ### Section 5: Evaluation and Hyperparameters Tuning 
 In this section, we will evaluate the model's performance based on relevant performance metrics.
-We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal hyperparameters) to improve model performance.
-**Topics covered:**
-- Cross-validation
-- Search Algorithms (Grid search, Random search)
-- Bayesian Optimization
+We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal hyperparameters) to improve model performance.<br>
+>**Topics covered:**
+>- Cross-validation.
+>- Search Algorithms (Grid search, Random search).
+>- Bayesian Optimization.
 
 ------------------------------------------------------------
 
 
 
 ------------------------------------------------------------
-## Natural Language Processing (NLP) & Text classification
+## Natural Language Processing (NLP) & Text classification - Sentiment analysis and sentiment classification
 
 
-In this project, we will use the CRISP-DM methodology and popular data science and machine learning techniques, such as:  
-data integration, exploratory data analysis (EDA), feature engineering, feature selection, imbalance date methods, machine learning models, evaluation and  hyperparameters tuning using: python libraries (Numpy, Pandas, Matplotlib, Scikit-learn), statistics, and more.
-
+In this project, I will conduct a sentiment analysis using statistical methods, in addition to training and evaluating a sentiment classifier for Amazon products reviews using Natural Language Processing. <br>
+>**Topics covered:**
+>- Cross-validation.
+>- Search Algorithms (Grid search, Random search).
+>- Bayesian Optimization.
 
 [![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Natural-Language-Processing-NLP-Text-classification/)
 
