@@ -129,10 +129,14 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 ------------------------------------------------------------
 ## <span style="color:#4863A0">Natural Language Processing (NLP): <br> Sentiment Analysis and Sentiment Classification</span> <br>
 In this project, I will conduct a sentiment analysis using statistical methods, in addition to training and evaluating a sentiment classifier for Amazon products reviews using Natural Language Processing. <br>
+
 **Topics covered:**
->- Cross-validation.
->- Search Algorithms (Grid search, Random search).
->- Bayesian Optimization.
+>- Sentiment Analysis.
+>- Text preprocessing (tokenization lemmatization, stopwords and more).
+>- Balancing the target variable distribution.
+>- Exploring different text representation methods.
+>- Traning Sentiment Classification (Naive Bayes, Logistic Regression, Bernoulli Naive Bayes).
+>- Performance Evaluation.
 
 <span style="color:#B21807"> *Will be updated soon!!</span> <br>
 [![](https://img.shields.io/badge/GitHub-%20Sentiment%20Analysis%20And%20Classification%20Code-red?logo=Github)]()
