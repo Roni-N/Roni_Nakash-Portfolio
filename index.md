@@ -6,12 +6,12 @@ layout: default
 # <span style="color:#4863A0">Hello and welcome to my portfolio!</span>
 ------------------------------------------------------------
 
->In this portfolio, I will share with you some of my expertise in: <br>
->**Data Science & Machine Learning techniques, Natural Language Processing (NLP) & Text classification, Statistics and more.** <br>
+>**In this portfolio, I will share with you some of my expertise in: <br>
+>Data Science & Machine Learning techniques, Natural Language Processing (NLP) & Text classification, Statistics and more.** <br>
 
->I hope you will find this information useful, and I would appreciate hearing your thoughts! <br>
+>**I hope you will find this information useful, and I would appreciate hearing your thoughts! <br>
 >Please don't hesitate to contact me if you have any questions. <br>
->**Thanks and enjoy your reading. :)**
+>Thanks and enjoy your reading. :)**
 
 ------------------------------------------------------------
 ## <span style="color:#4863A0">Classification Project:<br> Insurance claim prediction.</span>
