@@ -109,7 +109,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 >- Cross-validation training method.
 
 <span style="color:#B21807"> *Will be updated soon!!</span>
-[![](https://img.shields.io/badge/GitHub-4%20Imbalance%20Data%20Code-red?logo=Github)]()
+[![](https://img.shields.io/badge/GitHub-4%20ML%20Modeling%20Code-red?logo=Github)]()
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 5: Evaluation and Hyperparameters Tuning  </span><br>
@@ -120,14 +120,14 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 >- **Bayesian Optimization.**
 >
 <span style="color:#B21807"> *Will be updated soon!!</span>
-[![](https://img.shields.io/badge/GitHub-5%20Imbalance%20Data%20Code-red?logo=Github)]()
+[![](https://img.shields.io/badge/GitHub-5%20Evaluation%20and%20Hyperparameters%20Tuning%20Code-red?logo=Github)]()
 
 ------------------------------------------------------------
 
 
 
 ------------------------------------------------------------
-## <span style="color:#4863A0">Natural Language Processing (NLP): <br> Sentiment analysis and sentiment classification</span> <br>
+## <span style="color:#4863A0">Natural Language Processing (NLP): <br> Sentiment Analysis and Sentiment Classification</span> <br>
 <span style="color:#B21807"> *Will be updated soon!!</span> <br>
 In this project, I will conduct a sentiment analysis using statistical methods, in addition to training and evaluating a sentiment classifier for Amazon products reviews using Natural Language Processing. <br>
 **Topics covered:**
@@ -135,7 +135,7 @@ In this project, I will conduct a sentiment analysis using statistical methods, 
 >- Search Algorithms (Grid search, Random search).
 >- Bayesian Optimization.
 
-[![](https://img.shields.io/badge/GitHub-%20Imbalance%20SData%20Code-blue?logo=Github)]()
+[![](https://img.shields.io/badge/GitHub-%20Sentiment%20SAnalysis%20And%20Classification%20Code-red?logo=Github)]()
 
 [![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Natural-Language-Processing-NLP-Text-classification/)
 
