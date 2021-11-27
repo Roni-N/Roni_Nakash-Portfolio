@@ -108,12 +108,10 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 5: Evaluation and Hyperparameters Tuning  </span>
 -- **Will be updated soon!!**<br>
-In this section, we will evaluate the model's performance based on relevant performance metrics.
-We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal hyperparameters) to improve model performance.<br>
 **Performance Evaluation & Metrics, Hyperparameter Tuning methods:**
->- evaluation metrics: Accuracy, Precision-Recall, F1 score, Roc-AUC curve and more.
->- Optimization by Search Algorithms: Manual, Grid and Random search.
->- Bayesian Optimization.
+>- **Evaluation metrics:** Accuracy, Precision-Recall, F1 score, Roc-AUC curve and more.
+>- **Optimization by Search Algorithms:** Manual, Grid and Random search.
+>- **Bayesian Optimization.**
 
 [![](https://img.shields.io/badge/GitHub-5%20Imbalance%20Data%20Code-blue?logo=Github)]()
 
