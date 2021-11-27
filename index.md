@@ -54,7 +54,7 @@ layout: default
 
 In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
 
-<span style="color:#B21807"> *Will be updated soon!!</span>
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 [![](https://img.shields.io/badge/GitHub-2.2%20Exploratory%20Data%20Analysis%20Code-red?logo=Github)]()
 
 ***
@@ -72,7 +72,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 >- **Features Scaling.**
 >- **Producing New Features.**
 
-<span style="color:#B21807"> *Will be updated soon!!</span>
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 [![](https://img.shields.io/badge/GitHub-3.1%20Feature%20Engineering%20Code-red?logo=Github)]()
 
 ************************************************************
@@ -83,7 +83,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 >- **Wrapper methods:** Forward / Backward selection.
 >- **Embedded methods:** Lasso, Tree importance.
 
-<span style="color:#B21807"> *Will be updated soon!!</span>
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 [![](https://img.shields.io/badge/GitHub-3.2%20Feature%20Selection%20Code-red?logo=Github)]()
 
 ************************************************************
@@ -94,7 +94,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 >- **Oversampling:** sample extraction and sample generation methods.
 >- **Ensemble Methods:** data level, cost-sensitive, ensemble algorithms.
 
-<span style="color:#B21807"> *Will be updated soon!!</span>
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 [![](https://img.shields.io/badge/GitHub-3.3%20Imbalance%20Data%20Code-red?logo=Github)]()
 
 ************************************************************
@@ -108,18 +108,18 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 >- KNN classifier. 
 >- Cross-validation training method.
 
-<span style="color:#B21807"> *Will be updated soon!!</span>
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 [![](https://img.shields.io/badge/GitHub-4%20ML%20Modeling%20Code-red?logo=Github)]()
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 5: Evaluation and Hyperparameters Tuning  </span><br>
-<span style="color:#B21807"> *Will be updated soon!!</span> <br>
+
 **Performance Evaluation & Metrics, Hyperparameter Tuning methods:**
 >- **Evaluation metrics:** Accuracy, Precision-Recall, F1 score, Roc-AUC curve and more.
 >- **Optimization by Search Algorithms:** Manual, Grid and Random search.
 >- **Bayesian Optimization.**
 >
-<span style="color:#B21807"> *Will be updated soon!!</span>
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 [![](https://img.shields.io/badge/GitHub-5%20Evaluation%20and%20Hyperparameters%20Tuning%20Code-red?logo=Github)]()
 
 ------------------------------------------------------------
@@ -128,14 +128,13 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 
 ------------------------------------------------------------
 ## <span style="color:#4863A0">Natural Language Processing (NLP): <br> Sentiment Analysis and Sentiment Classification</span> <br>
-<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 In this project, I will conduct a sentiment analysis using statistical methods, in addition to training and evaluating a sentiment classifier for Amazon products reviews using Natural Language Processing. <br>
 **Topics covered:**
 >- Cross-validation.
 >- Search Algorithms (Grid search, Random search).
 >- Bayesian Optimization.
 
-[![](https://img.shields.io/badge/GitHub-%20Sentiment%20SAnalysis%20And%20Classification%20Code-red?logo=Github)]()
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
+[![](https://img.shields.io/badge/GitHub-%20Sentiment%20Analysis%20And%20Classification%20Code-red?logo=Github)]()
 
-[![](https://img.shields.io/badge/GitHub-Full%20project%20Link-blue?logo=Github)](https://roni-n.github.io/Natural-Language-Processing-NLP-Text-classification/)
 
