@@ -50,7 +50,9 @@ layout: default
 
 ************************************************************
 
-#### **2.2 Exploratory Data Analysis (EDA)** -- **Will be updated soon!!**
+#### **2.2 Exploratory Data Analysis (EDA)** <br>
+# <span style="color:#B21807">** *Will be updated soon!!**</span>
+
 In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
 
 [![](https://img.shields.io/badge/GitHub-2.2%20Exploratory%20Data%20Analysis%20Code-blue?logo=Github)]()
@@ -72,7 +74,8 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 [![](https://img.shields.io/badge/GitHub-3.1%20Feature%20Engineering%20Code-blue?logo=Github)]()
 
 ************************************************************
-#### **3.2 Feature Selection:** -- **Will be updated soon!!**
+#### **3.2 Feature Selection:** 
+# <span style="color:#B21807">** *Will be updated soon!!**</span>
 
 **Removing non-informative and redundant features using:**
 >- **Filter (statistical) methods:** variance, statistical test, correlations, mutual information
