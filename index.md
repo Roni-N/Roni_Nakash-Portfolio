@@ -51,7 +51,7 @@ layout: default
 ************************************************************
 
 #### **2.2 Exploratory Data Analysis (EDA)** -- **Will be updated soon!!**
-In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, **discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs**.
+In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
 
 [![](https://img.shields.io/badge/GitHub-2.2%20Exploratory%20Data%20Analysis%20Code-blue?logo=Github)]()
 
@@ -87,7 +87,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 **Balancing the target variable distribution using:**
 >- **Undersampling:** Fixed and Cleaning methods.
 >- **Oversampling:** sample extraction and sample generation methods.
->- **Ensemble Method:** data level, cost-sensitive, ensemble algorithms.
+>- **Ensemble Methods:** data level, cost-sensitive, ensemble algorithms.
 
 [![](https://img.shields.io/badge/GitHub-3.3%20Imbalance%20Data%20Code-blue?logo=Github)]()
 
@@ -101,6 +101,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 >- SVM.
 >- Naive Bayes classifier. 
 >- KNN classifier. 
+>- Cross-validation training method.
 
 [![](https://img.shields.io/badge/GitHub-4%20Imbalance%20Data%20Code-blue?logo=Github)]()
 
@@ -109,9 +110,9 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 -- **Will be updated soon!!**<br>
 In this section, we will evaluate the model's performance based on relevant performance metrics.
 We will also use Hyperparameter Tuning methods (i.e. choosing a set of optimal hyperparameters) to improve model performance.<br>
-**Topics covered:**
->- Cross-validation.
->- Search Algorithms (Grid search, Random search).
+**Performance Evaluation & Metrics, Hyperparameter Tuning methods:**
+>- evaluation metrics: Accuracy, Precision-Recall, F1 score, Roc-AUC curve and more.
+>- Optimization by Search Algorithms: Manual, Grid and Random search.
 >- Bayesian Optimization.
 
 [![](https://img.shields.io/badge/GitHub-5%20Imbalance%20Data%20Code-blue?logo=Github)]()
