@@ -51,7 +51,7 @@ layout: default
 ************************************************************
 
 #### **2.2 Exploratory Data Analysis (EDA)** <br>
-# <span style="color:#B21807">** *Will be updated soon!!**</span>
+<span style="color:#B21807"> *Will be updated soon!!</span>
 
 In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
 
@@ -61,7 +61,8 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 
 ### <span style="color:#728FCE">Section 3: Data preparation </span>
 
-#### **3.1 Feature Engineering:** -- **Will be updated soon!!** <br>
+#### **3.1 Feature Engineering:** <br>
+<span style="color:#B21807"> *Will be updated soon!!</span>
 **Extracting features from raw data using:**
 >- **Missing Data Imputation:** Multivariate & univariate methods.
 >- **Categorical Features Encoding:** Target & frequency encoding methods.
@@ -74,8 +75,8 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 [![](https://img.shields.io/badge/GitHub-3.1%20Feature%20Engineering%20Code-blue?logo=Github)]()
 
 ************************************************************
-#### **3.2 Feature Selection:** 
-# <span style="color:#B21807">** *Will be updated soon!!**</span>
+#### **3.2 Feature Selection:** <br>
+<span style="color:#B21807"> *Will be updated soon!!</span>
 
 **Removing non-informative and redundant features using:**
 >- **Filter (statistical) methods:** variance, statistical test, correlations, mutual information
@@ -85,7 +86,8 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 [![](https://img.shields.io/badge/GitHub-3.2%20Feature%20Selection%20Code-blue?logo=Github)]()
 
 ************************************************************
-#### **3.3 Imbalance Data:** -- **Will be updated soon!!**
+#### **3.3 Imbalance Data:** <br>
+<span style="color:#B21807"> *Will be updated soon!!</span>
 
 **Balancing the target variable distribution using:**
 >- **Undersampling:** Fixed and Cleaning methods.
@@ -97,8 +99,8 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 ************************************************************
 
 ------------------------------------------------------------
-### <span style="color:#728FCE">Section 4: Machine Learning Algorithms </span> 
--- **Will be updated soon!!**<br>
+### <span style="color:#728FCE">Section 4: Machine Learning Algorithms </span> <br>
+<span style="color:#B21807"> *Will be updated soon!!</span>
 **Training of classification models such as:**
 >- Logistic regression.
 >- SVM.
@@ -109,8 +111,8 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 [![](https://img.shields.io/badge/GitHub-4%20Imbalance%20Data%20Code-blue?logo=Github)]()
 
 ------------------------------------------------------------
-### <span style="color:#728FCE">Section 5: Evaluation and Hyperparameters Tuning  </span>
--- **Will be updated soon!!**<br>
+### <span style="color:#728FCE">Section 5: Evaluation and Hyperparameters Tuning  </span><br>
+<span style="color:#B21807"> *Will be updated soon!!</span>
 **Performance Evaluation & Metrics, Hyperparameter Tuning methods:**
 >- **Evaluation metrics:** Accuracy, Precision-Recall, F1 score, Roc-AUC curve and more.
 >- **Optimization by Search Algorithms:** Manual, Grid and Random search.
@@ -123,8 +125,8 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 
 
 ------------------------------------------------------------
-## <span style="color:#4863A0">Natural Language Processing (NLP): <br> Sentiment analysis and sentiment classification</span>
--- **Will be updated soon!!**
+## <span style="color:#4863A0">Natural Language Processing (NLP): <br> Sentiment analysis and sentiment classification</span> <br>
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 In this project, I will conduct a sentiment analysis using statistical methods, in addition to training and evaluating a sentiment classifier for Amazon products reviews using Natural Language Processing. <br>
 **Topics covered:**
 >- Cross-validation.
