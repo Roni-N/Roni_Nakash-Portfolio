@@ -62,7 +62,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 ### <span style="color:#728FCE">Section 3: Data preparation </span>
 
 #### **3.1 Feature Engineering:** <br>
-<span style="color:#B21807"> *Will be updated soon!!</span>
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 **Extracting features from raw data using:**
 >- **Missing Data Imputation:** Multivariate & univariate methods.
 >- **Categorical Features Encoding:** Target & frequency encoding methods.
@@ -76,7 +76,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 
 ************************************************************
 #### **3.2 Feature Selection:** <br>
-<span style="color:#B21807"> *Will be updated soon!!</span>
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 
 **Removing non-informative and redundant features using:**
 >- **Filter (statistical) methods:** variance, statistical test, correlations, mutual information
@@ -87,7 +87,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 
 ************************************************************
 #### **3.3 Imbalance Data:** <br>
-<span style="color:#B21807"> *Will be updated soon!!</span>
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 
 **Balancing the target variable distribution using:**
 >- **Undersampling:** Fixed and Cleaning methods.
@@ -100,7 +100,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 4: Machine Learning Algorithms </span> <br>
-<span style="color:#B21807"> *Will be updated soon!!</span>
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 **Training of classification models such as:**
 >- Logistic regression.
 >- SVM.
@@ -112,7 +112,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 5: Evaluation and Hyperparameters Tuning  </span><br>
-<span style="color:#B21807"> *Will be updated soon!!</span>
+<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 **Performance Evaluation & Metrics, Hyperparameter Tuning methods:**
 >- **Evaluation metrics:** Accuracy, Precision-Recall, F1 score, Roc-AUC curve and more.
 >- **Optimization by Search Algorithms:** Manual, Grid and Random search.
