@@ -34,7 +34,7 @@ layout: default
 >- Defining the business problem and project objectives.
 
 
-[![](https://img.shields.io/badge/GitHub-Business%20Understanding%20explanation-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding..ipynb)
+[![](https://img.shields.io/badge/GitHub-Business%20Understanding%20explanation-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%201%20Business%20Understanding/(ICP)%200.%20Business%20Understanding1%20(5).ipynb)
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 2: Data Understanding</span>
@@ -46,7 +46,7 @@ layout: default
 >- Produce ground truth (labeling the target variable). 
 >- Creating new features to preserve and reflect information.
 
-[![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20Code-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%202%20Data%20Understanding/2.1%20Data%20integration/(ICP)%201.%20Data%20Grouping%20and%20Aggregation..ipynb)
+[![](https://img.shields.io/badge/GitHub-2.1%20Data%20integration%20Code-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%202%20Data%20Understanding/2.1%20Data%20integration/(ICP)%201.%20Data%20Grouping%20and%20Aggregation%20(2).ipynb)
 
 ************************************************************
 
