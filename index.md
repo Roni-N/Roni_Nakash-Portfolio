@@ -118,7 +118,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 >- **Evaluation metrics:** Accuracy, Precision-Recall, F1 score, Roc-AUC curve and more.
 >- **Optimization by Search Algorithms:** Manual, Grid and Random search.
 >- **Bayesian Optimization.**
->
+
 <span style="color:#B21807"> *Will be updated soon!!</span> <br>
 [![](https://img.shields.io/badge/GitHub-5%20Evaluation%20and%20Hyperparameters%20Tuning%20Code-red?logo=Github)]()
 
