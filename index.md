@@ -51,10 +51,10 @@ layout: default
 ************************************************************
 
 #### **2.2 Exploratory Data Analysis (EDA)** 
-<span style="color:#B21807"> *Will be updated soon!!</span>
 
 In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
 
+<span style="color:#B21807"> *Will be updated soon!!</span>
 [![](https://img.shields.io/badge/GitHub-2.2%20Exploratory%20Data%20Analysis%20Code-red?logo=Github)]()
 
 ***
@@ -62,7 +62,6 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 ### <span style="color:#728FCE">Section 3: Data preparation </span>
 
 #### **3.1 Feature Engineering:** 
-<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 
 **Extracting features from raw data using:**
 >- **Missing Data Imputation:** Multivariate & univariate methods.
@@ -73,35 +72,35 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 >- **Features Scaling.**
 >- **Producing New Features.**
 
-[![](https://img.shields.io/badge/GitHub-3.1%20Feature%20Engineering%20Code-blue?logo=Github)]()
+<span style="color:#B21807"> *Will be updated soon!!</span>
+[![](https://img.shields.io/badge/GitHub-3.1%20Feature%20Engineering%20Code-red?logo=Github)]()
 
 ************************************************************
 #### **3.2 Feature Selection:** 
-<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 
 **Removing non-informative and redundant features using:**
 >- **Filter (statistical) methods:** variance, statistical test, correlations, mutual information
 >- **Wrapper methods:** Forward / Backward selection.
 >- **Embedded methods:** Lasso, Tree importance.
 
-[![](https://img.shields.io/badge/GitHub-3.2%20Feature%20Selection%20Code-blue?logo=Github)]()
+<span style="color:#B21807"> *Will be updated soon!!</span>
+[![](https://img.shields.io/badge/GitHub-3.2%20Feature%20Selection%20Code-red?logo=Github)]()
 
 ************************************************************
 #### **3.3 Imbalance Data:** 
-<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 
 **Balancing the target variable distribution using:**
 >- **Undersampling:** Fixed and Cleaning methods.
 >- **Oversampling:** sample extraction and sample generation methods.
 >- **Ensemble Methods:** data level, cost-sensitive, ensemble algorithms.
 
-[![](https://img.shields.io/badge/GitHub-3.3%20Imbalance%20Data%20Code-blue?logo=Github)]()
+<span style="color:#B21807"> *Will be updated soon!!</span>
+[![](https://img.shields.io/badge/GitHub-3.3%20Imbalance%20Data%20Code-red?logo=Github)]()
 
 ************************************************************
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 4: Machine Learning Algorithms </span> <br>
-<span style="color:#B21807"> *Will be updated soon!!</span> <br>
 **Training of classification models such as:**
 >- Logistic regression.
 >- SVM.
@@ -109,7 +108,8 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 >- KNN classifier. 
 >- Cross-validation training method.
 
-[![](https://img.shields.io/badge/GitHub-4%20Imbalance%20Data%20Code-blue?logo=Github)]()
+<span style="color:#B21807"> *Will be updated soon!!</span>
+[![](https://img.shields.io/badge/GitHub-4%20Imbalance%20Data%20Code-red?logo=Github)]()
 
 ------------------------------------------------------------
 ### <span style="color:#728FCE">Section 5: Evaluation and Hyperparameters Tuning  </span><br>
@@ -118,8 +118,9 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 >- **Evaluation metrics:** Accuracy, Precision-Recall, F1 score, Roc-AUC curve and more.
 >- **Optimization by Search Algorithms:** Manual, Grid and Random search.
 >- **Bayesian Optimization.**
-
-[![](https://img.shields.io/badge/GitHub-5%20Imbalance%20Data%20Code-blue?logo=Github)]()
+>
+<span style="color:#B21807"> *Will be updated soon!!</span>
+[![](https://img.shields.io/badge/GitHub-5%20Imbalance%20Data%20Code-red?logo=Github)]()
 
 ------------------------------------------------------------
 
