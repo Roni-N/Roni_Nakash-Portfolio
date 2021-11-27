@@ -50,7 +50,7 @@ layout: default
 
 ************************************************************
 
-#### **2.2 Exploratory Data Analysis (EDA)** <br>
+#### **2.2 Exploratory Data Analysis (EDA)** 
 <span style="color:#B21807"> *Will be updated soon!!</span>
 
 In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
@@ -61,8 +61,9 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 
 ### <span style="color:#728FCE">Section 3: Data preparation </span>
 
-#### **3.1 Feature Engineering:** <br>
+#### **3.1 Feature Engineering:** 
 <span style="color:#B21807"> *Will be updated soon!!</span> <br>
+
 **Extracting features from raw data using:**
 >- **Missing Data Imputation:** Multivariate & univariate methods.
 >- **Categorical Features Encoding:** Target & frequency encoding methods.
@@ -75,7 +76,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 [![](https://img.shields.io/badge/GitHub-3.1%20Feature%20Engineering%20Code-blue?logo=Github)]()
 
 ************************************************************
-#### **3.2 Feature Selection:** <br>
+#### **3.2 Feature Selection:** 
 <span style="color:#B21807"> *Will be updated soon!!</span> <br>
 
 **Removing non-informative and redundant features using:**
@@ -86,7 +87,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 [![](https://img.shields.io/badge/GitHub-3.2%20Feature%20Selection%20Code-blue?logo=Github)]()
 
 ************************************************************
-#### **3.3 Imbalance Data:** <br>
+#### **3.3 Imbalance Data:** 
 <span style="color:#B21807"> *Will be updated soon!!</span> <br>
 
 **Balancing the target variable distribution using:**
