@@ -61,7 +61,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 
 ### <span style="color:#728FCE">Section 3: Data preparation </span>
 
-#### **3.1 Feature Engineering:** 
+#### **3.1 Feature Engineering** 
 
 **Extracting features from raw data using:**
 >- **Missing Data Imputation:** Multivariate & univariate methods.
@@ -76,7 +76,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 [![](https://img.shields.io/badge/GitHub-3.1%20Feature%20Engineering%20Code-red?logo=Github)]()
 
 ************************************************************
-#### **3.2 Feature Selection:** 
+#### **3.2 Feature Selection** 
 
 **Removing non-informative and redundant features using:**
 >- **Filter (statistical) methods:** variance, statistical test, correlations, mutual information
@@ -87,7 +87,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 [![](https://img.shields.io/badge/GitHub-3.2%20Feature%20Selection%20Code-red?logo=Github)]()
 
 ************************************************************
-#### **3.3 Imbalance Data:** 
+#### **3.3 Imbalance Data** 
 
 **Balancing the target variable distribution using:**
 >- **Undersampling:** Fixed and Cleaning methods.
@@ -128,7 +128,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 
 ------------------------------------------------------------
 ## <span style="color:#4863A0">Natural Language Processing (NLP): <br> Sentiment Analysis and Sentiment Classification</span> <br>
-In this project, I will conduct a sentiment analysis using statistical methods, in addition to training and evaluating a sentiment classifier for Amazon products reviews using Natural Language Processing. <br>
+**In this project, I will conduct a sentiment analysis using statistical methods, in addition to training and evaluating a sentiment classifier for Amazon products reviews using Natural Language Processing.** <br>
 
 **Topics covered:**
 >- Sentiment Analysis.
