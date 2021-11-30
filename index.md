@@ -73,7 +73,7 @@ In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct
 >- **Producing New Features.**
 
 <span style="color:#B21807"> *Will be updated soon!!</span> <br>
-[![](https://img.shields.io/badge/GitHub-3.1%20Feature%20Engineering%20Code-red?logo=Github)]()
+[![](https://img.shields.io/badge/GitHub-3.1%20Feature%20Engineering%20Code-red?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%203%20%20Data%20preparation%20/3.1%20Feature%20Engineering/(ICP)%203.%20Data%20Preprocessing%20-%20Feature%20Engineering%20-V1-.ipynb)
 
 ************************************************************
 #### **3.2 Feature Selection** 
