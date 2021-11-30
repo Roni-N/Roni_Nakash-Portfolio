@@ -54,8 +54,8 @@ layout: default
 
 In this part, I will perform Exploratory Data Analysis (EDA) in order to conduct preliminary investigations, discover patterns, identify anomalies, test hypotheses, and correct assumptions by examining summary statistics and graphs.
 
-<span style="color:#B21807"> *Will be updated soon!!</span> <br>
-[![](https://img.shields.io/badge/GitHub-2.2%20Exploratory%20Data%20Analysis%20Code-red?logo=Github)]()
+
+[![](https://img.shields.io/badge/GitHub-2.2%20Exploratory%20Data%20Analysis%20Code-blue?logo=Github)](https://github.com/Roni-N/Insurance-claim-prediction/blob/gh-pages/Section%202%20Data%20Understanding/2.2%20Exploratory%20Data%20Analysis%20(EDA)/(ICP)%202.%20EDA%20-%20Exploratory%20Data%20Analysis%20.ipynb)
 
 ***
 
